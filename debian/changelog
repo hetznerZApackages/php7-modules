@@ -1,3 +1,9 @@
+php7-modules (0.0.5+hetz1~exp11) jessie-hetz-experimental; urgency=low
+
+  * And less automation 
+
+ -- Geoff Robertson <gr@hetzner.co.za>  Tue, 28 Nov 2017 11:53:41 +0200
+
 php7-modules (0.0.5+hetz1~exp10) jessie-hetz-experimental; urgency=low
 
   * More automation 
