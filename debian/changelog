@@ -1,3 +1,9 @@
+php7-modules (0.0.5-1+hetz1~exp12) jessie-hetz-experimental; urgency=low
+
+  * Attempt new versioning
+
+ -- Geoff Robertson <gr@hetzner.co.za>  Tue, 28 Nov 2017 12:05:31 +0200
+
 php7-modules (0.0.5+hetz1~exp11) jessie-hetz-experimental; urgency=low
 
   * And less automation 
