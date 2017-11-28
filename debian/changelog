@@ -1,3 +1,9 @@
+php7-modules (0.0.5+hetz1~exp7) jessie-hetz-experimental; urgency=low
+
+  * Correct path to usr 
+
+ -- Geoff Robertson <gr@hetzner.co.za>  Tue, 28 Nov 2017 11:45:43 +0200
+
 php7-modules (0.0.5+hetz1~exp6) jessie-hetz-experimental; urgency=low
 
   * Full path include binaries 
