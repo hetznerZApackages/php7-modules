@@ -1,3 +1,9 @@
+php7-modules (0.0.5+hetz1~exp6) jessie-hetz-experimental; urgency=low
+
+  * Full path include binaries 
+
+ -- Geoff Robertson <gr@hetzner.co.za>  Tue, 28 Nov 2017 11:43:03 +0200
+
 php7-modules (0.0.5+hetz1~exp5) jessie-hetz-experimental; urgency=low
 
   * Try no format 
