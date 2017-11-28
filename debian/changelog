@@ -1,3 +1,9 @@
+php7-modules (0.0.5+hetz1~exp2) jessie-hetz-experimental; urgency=low
+
+  * Try out git 
+
+ -- Geoff Robertson <gr@hetzner.co.za>  Tue, 28 Nov 2017 11:23:09 +0200
+
 php7-modules (0.0.5+hetz1~exp1) jessie-hetz-experimental; urgency=low
 
   * Build from scratch
