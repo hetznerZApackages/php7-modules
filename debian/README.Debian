@@ -1,0 +1,13 @@
+PHP 7 Modules
+-------------
+
+Ioncube provides plugins for multiple PHP versions, this package only
+installs the PHP 7 plugin.
+
+htscanner pecl module does not current successfully compile on Debian
+Jessie.
+
+mailparse pecl modules does not current successfully compile on Debian
+Jessie.
+
+ -- Geoff Robertson <gr@hetzner.co.za>, Tue, 28 Nov 2017 08:04:12 +0200

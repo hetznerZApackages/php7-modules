@@ -1,0 +1,15 @@
+Source: php7-modules
+Section: web
+Priority: extra
+Maintainer: The Kernels <kernels@hetzner.co.za>
+Build-Depends: debhelper (>= 7), chrpath
+Standards-Version: 3.7.3
+Homepage: http://www.php.net
+
+Package: php7-modules
+Architecture: amd64
+Depends: php7.0-common
+Description: Modules for PHP7 currently unavailable through other sources
+ Loaders for ionCube Encoded files.
+ Mailparse PECL module.
+ htscanner PECL module.
