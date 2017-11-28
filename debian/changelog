@@ -1,3 +1,9 @@
+php7-modules (0.0.5-1+hetz1~exp13) jessie-hetz-experimental; urgency=low
+
+  * Bring back quilt 
+
+ -- Geoff Robertson <gr@hetzner.co.za>  Tue, 28 Nov 2017 12:08:09 +0200
+
 php7-modules (0.0.5-1+hetz1~exp12) jessie-hetz-experimental; urgency=low
 
   * Attempt new versioning
