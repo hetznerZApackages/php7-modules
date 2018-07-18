@@ -1,3 +1,9 @@
+php7-modules (0.0.7-1+hetz1~exp4) jessie-hetz-experimental; urgency=low
+
+  * Try fix build issues 
+
+ -- Geoff Robertson <gr@hetzner.co.za>  Wed, 18 Jul 2018 11:43:28 +0200
+
 php7-modules (0.0.7-1+hetz1~exp3) jessie-hetz-experimental; urgency=low
 
   * Remove mailparse as there is now a packaged version 
