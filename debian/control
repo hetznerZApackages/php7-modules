@@ -11,5 +11,4 @@ Architecture: amd64
 Depends: php7.0-common
 Description: Modules for PHP7 currently unavailable through other sources
  Loaders for ionCube Encoded files.
- Mailparse PECL module.
  htscanner PECL module.
